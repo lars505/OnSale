@@ -27,5 +27,9 @@ namespace OnSale.Common.Entities
         [NotMapped] // le ponemos esta notacion para que nuestro campo no aparezca en la BD
         public int IdCountry { get; set; }
 
+        
+
+
+
     }
 }
